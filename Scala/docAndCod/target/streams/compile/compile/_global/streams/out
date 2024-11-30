@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ROG\Desktop\Scala\docAndCod\ListAnyFuc.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.{FlatSpec, Matchers}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ROG\Desktop\Scala\docAndCod\ListAnyFuc.scala:2:27: not found: type FlatSpec[0m
+[0m[[0m[31merror[0m] [0m[0mobject ListAnyFuc extends FlatSpec with Matchers {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ROG\Desktop\Scala\docAndCod\ListAnyFuc.scala:2:41: not found: type Matchers[0m
+[0m[[0m[31merror[0m] [0m[0mobject ListAnyFuc extends FlatSpec with Matchers {[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

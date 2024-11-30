@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="converterVersion" value="1" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Classes Vs Case Classes/Case Classes Encoding" />
+            <option value="$PROJECT_DIR$/Classes Vs Case Classes/Case Classes Encoding/project" />
+            <option value="$PROJECT_DIR$/Classes Vs Case Classes/Creation and Manipulation" />
+            <option value="$PROJECT_DIR$/Classes Vs Case Classes/Creation and Manipulation/project" />
+            <option value="$PROJECT_DIR$/Classes Vs Case Classes/Equality" />
+            <option value="$PROJECT_DIR$/Classes Vs Case Classes/Equality/project" />
+            <option value="$PROJECT_DIR$/Definitions and Evaluation/Multiple Parameters" />
+            <option value="$PROJECT_DIR$/Definitions and Evaluation/Multiple Parameters/project" />
+            <option value="$PROJECT_DIR$/Definitions and Evaluation/Naming Things" />
+            <option value="$PROJECT_DIR$/Definitions and Evaluation/Naming Things 2" />
+            <option value="$PROJECT_DIR$/Definitions and Evaluation/Naming Things 2/project" />
+            <option value="$PROJECT_DIR$/Definitions and Evaluation/Naming Things/project" />
+            <option value="$PROJECT_DIR$/Functional Loops/Computing the Square Root of a Value" />
+            <option value="$PROJECT_DIR$/Functional Loops/Computing the Square Root of a Value/project" />
+            <option value="$PROJECT_DIR$/Functional Loops/Conditional Expressions" />
+            <option value="$PROJECT_DIR$/Functional Loops/Conditional Expressions/project" />
+            <option value="$PROJECT_DIR$/Higher Order Functions/Higher Order Functions" />
+            <option value="$PROJECT_DIR$/Higher Order Functions/Higher Order Functions/project" />
+            <option value="$PROJECT_DIR$/Imperative Programming/Imperative Loops" />
+            <option value="$PROJECT_DIR$/Imperative Programming/Imperative Loops/project" />
+            <option value="$PROJECT_DIR$/Imperative Programming/Stateful Objects" />
+            <option value="$PROJECT_DIR$/Imperative Programming/Stateful Objects/project" />
+            <option value="$PROJECT_DIR$/Lazy Evaluation/Lazy Evaluation" />
+            <option value="$PROJECT_DIR$/Lazy Evaluation/Lazy Evaluation/project" />
+            <option value="$PROJECT_DIR$/Lazy Evaluation/Lazy Lists" />
+            <option value="$PROJECT_DIR$/Lazy Evaluation/Lazy Lists/project" />
+            <option value="$PROJECT_DIR$/Lexical Scopes/Lexical Scoping" />
+            <option value="$PROJECT_DIR$/Lexical Scopes/Lexical Scoping/project" />
+            <option value="$PROJECT_DIR$/Lexical Scopes/Nested Functions" />
+            <option value="$PROJECT_DIR$/Lexical Scopes/Nested Functions/project" />
+            <option value="$PROJECT_DIR$/Navigating Around/Course View" />
+            <option value="$PROJECT_DIR$/Navigating Around/Course View/project" />
+            <option value="$PROJECT_DIR$/Navigating Around/Editor" />
+            <option value="$PROJECT_DIR$/Navigating Around/Editor/project" />
+            <option value="$PROJECT_DIR$/Navigating Around/First Steps" />
+            <option value="$PROJECT_DIR$/Navigating Around/First Steps/project" />
+            <option value="$PROJECT_DIR$/Navigating Around/Task Description" />
+            <option value="$PROJECT_DIR$/Navigating Around/Task Description/project" />
+            <option value="$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming" />
+            <option value="$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming/project" />
+            <option value="$PROJECT_DIR$/Object Oriented Programming/Rational Arithmetic" />
+            <option value="$PROJECT_DIR$/Object Oriented Programming/Rational Arithmetic/project" />
+            <option value="$PROJECT_DIR$/Object Oriented Programming/Traits" />
+            <option value="$PROJECT_DIR$/Object Oriented Programming/Traits/project" />
+            <option value="$PROJECT_DIR$/Polymorphic Types/Covariance" />
+            <option value="$PROJECT_DIR$/Polymorphic Types/Covariance/project" />
+            <option value="$PROJECT_DIR$/Polymorphic Types/Polymorphic Types" />
+            <option value="$PROJECT_DIR$/Polymorphic Types/Polymorphic Types/project" />
+            <option value="$PROJECT_DIR$/Polymorphic Types/Type Bounds" />
+            <option value="$PROJECT_DIR$/Polymorphic Types/Type Bounds/project" />
+            <option value="$PROJECT_DIR$/Standard Library/Common Operations on Lists" />
+            <option value="$PROJECT_DIR$/Standard Library/Common Operations on Lists/project" />
+            <option value="$PROJECT_DIR$/Standard Library/Error Handling" />
+            <option value="$PROJECT_DIR$/Standard Library/Error Handling/project" />
+            <option value="$PROJECT_DIR$/Standard Library/List" />
+            <option value="$PROJECT_DIR$/Standard Library/List/project" />
+            <option value="$PROJECT_DIR$/Structuring Information/Defining Alternatives With Sealed Traits" />
+            <option value="$PROJECT_DIR$/Structuring Information/Defining Alternatives With Sealed Traits/project" />
+            <option value="$PROJECT_DIR$/Structuring Information/Enumerations" />
+            <option value="$PROJECT_DIR$/Structuring Information/Enumerations/project" />
+            <option value="$PROJECT_DIR$/Structuring Information/Introduction" />
+            <option value="$PROJECT_DIR$/Structuring Information/Introduction/project" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/Functions" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/Functions/project" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/Methods Parameters" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/Methods Parameters/project" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/String Interpolation" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/String Interpolation/project" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/Tuples" />
+            <option value="$PROJECT_DIR$/Syntactic Conveniences/Tuples/project" />
+            <option value="$PROJECT_DIR$/Tail Recursion/Recursive Function Application" />
+            <option value="$PROJECT_DIR$/Tail Recursion/Recursive Function Application/project" />
+            <option value="$PROJECT_DIR$/Terms and Types/Common Types" />
+            <option value="$PROJECT_DIR$/Terms and Types/Common Types/project" />
+            <option value="$PROJECT_DIR$/Terms and Types/Method Calls" />
+            <option value="$PROJECT_DIR$/Terms and Types/Method Calls/project" />
+            <option value="$PROJECT_DIR$/Terms and Types/Operators" />
+            <option value="$PROJECT_DIR$/Terms and Types/Operators/project" />
+            <option value="$PROJECT_DIR$/Terms and Types/Primitive Expressions" />
+            <option value="$PROJECT_DIR$/Terms and Types/Primitive Expressions/project" />
+            <option value="$PROJECT_DIR$/Type Classes/Type Classes" />
+            <option value="$PROJECT_DIR$/Type Classes/Type Classes/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.5.8" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

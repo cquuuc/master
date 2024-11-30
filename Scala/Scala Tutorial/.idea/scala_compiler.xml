@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Case-Classes-Encoding,Common-Operations-on-Lists,Common-Types,Computing-the-Square-Root-of-a-Value,Conditional-Expressions,Course-View,Covariance,Creation-and-Manipulation,Defining-Alternatives-With-Sealed-Traits,Editor,Enumerations,Equality,Error-Handling,First-Steps,Functions,Higher-Order-Functions,Imperative-Loops,Introduction,Lazy-Evaluation,Lazy-Lists,Lexical-Scoping,List,Method-Calls,Methods-Parameters,Multiple-Parameters,Naming-Things,Naming-Things-2,Nested-Functions,Object-Oriented-Programming,Operators,Polymorphic-Types,Primitive-Expressions,Rational-Arithmetic,Recursive-Function-Application,Scala-Tutorial,Stateful-Objects,String-Interpolation,Task-Description,Traits,Tuples,Type-Bounds,Type-Classes" />
+  </component>
+</project>

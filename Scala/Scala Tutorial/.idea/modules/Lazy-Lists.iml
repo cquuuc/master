@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Lazy-Lists [file:/Users/student/Documents/ScalaProjects/Scala%20Tutorial/Lazy%20Evaluation/Lazy%20Lists/]" external.linked.project.path="$MODULE_DIR$/../../Lazy Evaluation/Lazy Lists" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../Lazy Evaluation/Lazy Lists/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../Lazy Evaluation/Lazy Lists/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Lazy Evaluation/Lazy Lists">
+      <sourceFolder url="file://$MODULE_DIR$/../../Lazy Evaluation/Lazy Lists/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Lazy Evaluation/Lazy Lists/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Lazy Evaluation/Lazy Lists/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: co.fs2:fs2-core_2.12:2.4.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: co.fs2:fs2-io_2.12:2.4.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.47deg:github4s_2.12:0.25.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.chuusai:shapeless_2.12:2.3.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.alexarchambault:scalacheck-shapeless_1.14_2.12:1.2.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.marklister:base64_2.12:0.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.twitter:hpack:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.chrisdavenport:unique_2.12:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.chrisdavenport:vault_2.12:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-core_2.12:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-generic_2.12:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-jawn_2.12:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-literal_2.12:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-numbers_2.12:0.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.clapper:classutil_2.12:1.5.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.clapper:grizzled-scala_2.12:4.9.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.eclipse.jetty.alpn:alpn-api:1.1.3.v20160715:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:blaze-core_2.12:0.14.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:blaze-http_2.12:0.14.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:http4s-blaze-client_2.12:0.21.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:http4s-blaze-core_2.12:0.21.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:http4s-circe_2.12:0.21.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:http4s-client_2.12:0.21.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:http4s-core_2.12:0.21.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:http4s-jawn_2.12:0.21.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:jawn-fs2_2.12:1.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.http4s:parboiled_2.12:2.0.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.log4s:log4s_2.12:1.8.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-analysis:7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-commons:7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-tree:7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-util:7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm:7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-exercises:definitions_2.12:0.6.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-exercises:evaluator-client_2.12:0.6.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-exercises:exercise-compiler_2.12:0.6.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-exercises:runtime_2.12:0.6.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-collection-compat_2.12:2.1.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.12:1.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-xml_2.12:1.3.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-compiler:2.12.14:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.14:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.12.14:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-sbt:test-interface:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalacheck:scalacheck_2.12:1.15.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalactic:scalactic_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalariform:scalariform_2.12:0.2.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-compatible:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-core_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-diagrams_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-featurespec_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-flatspec_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-freespec_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-funspec_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-funsuite_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-matchers-core_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-mustmatchers_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-propspec_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-refspec_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-shouldmatchers_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest-wordspec_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatest:scalatest_2.12:3.2.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatestplus:scalacheck-1-14_2.12:3.2.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scodec:scodec-bits_2.12:1.1.16:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.25:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-core_2.12:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-effect_2.12:2.1.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_2.12:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-macros_2.12:2.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:jawn-parser_2.12:1.0.0:jar" level="project" />
+  </component>
+</module>

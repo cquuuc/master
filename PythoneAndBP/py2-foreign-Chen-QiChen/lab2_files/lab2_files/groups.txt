@@ -1,0 +1,15 @@
+T
+Leo,Raphael,Donatello,Michelangelo
+Karate,Pizza,Math
+
+B
+John,Paul,George,Ringo
+Music,Singing
+
+S
+Scooby-Doo,Shaggy,Fred,Daphne,Velma
+Mystery,Driving,Pizza
+
+H
+Harry,Hermione,Ron
+Magic,Potions

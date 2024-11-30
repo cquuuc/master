@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Case-Classes-Encoding.iml" filepath="$PROJECT_DIR$/.idea/modules/Case-Classes-Encoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Case-Classes-Encoding-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Case-Classes-Encoding-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common-Operations-on-Lists.iml" filepath="$PROJECT_DIR$/.idea/modules/Common-Operations-on-Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common-Operations-on-Lists-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Common-Operations-on-Lists-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common-Types.iml" filepath="$PROJECT_DIR$/.idea/modules/Common-Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common-Types-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Common-Types-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Computing-the-Square-Root-of-a-Value.iml" filepath="$PROJECT_DIR$/.idea/modules/Computing-the-Square-Root-of-a-Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Computing-the-Square-Root-of-a-Value-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Computing-the-Square-Root-of-a-Value-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Conditional-Expressions.iml" filepath="$PROJECT_DIR$/.idea/modules/Conditional-Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Conditional-Expressions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Conditional-Expressions-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Course-View.iml" filepath="$PROJECT_DIR$/.idea/modules/Course-View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Course-View-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Course-View-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Covariance.iml" filepath="$PROJECT_DIR$/.idea/modules/Covariance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Covariance-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Covariance-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Creation-and-Manipulation.iml" filepath="$PROJECT_DIR$/.idea/modules/Creation-and-Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Creation-and-Manipulation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Creation-and-Manipulation-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Defining-Alternatives-With-Sealed-Traits.iml" filepath="$PROJECT_DIR$/.idea/modules/Defining-Alternatives-With-Sealed-Traits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Defining-Alternatives-With-Sealed-Traits-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Defining-Alternatives-With-Sealed-Traits-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Editor-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Editor-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enumerations.iml" filepath="$PROJECT_DIR$/.idea/modules/Enumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Enumerations-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Enumerations-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equality.iml" filepath="$PROJECT_DIR$/.idea/modules/Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equality-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Equality-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error-Handling.iml" filepath="$PROJECT_DIR$/.idea/modules/Error-Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error-Handling-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Error-Handling-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/First-Steps.iml" filepath="$PROJECT_DIR$/.idea/modules/First-Steps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/First-Steps-build.iml" filepath="$PROJECT_DIR$/.idea/modules/First-Steps-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Functions.iml" filepath="$PROJECT_DIR$/.idea/modules/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Functions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Functions-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Higher-Order-Functions.iml" filepath="$PROJECT_DIR$/.idea/modules/Higher-Order-Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Higher-Order-Functions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Higher-Order-Functions-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Imperative-Loops.iml" filepath="$PROJECT_DIR$/.idea/modules/Imperative-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Imperative-Loops-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Imperative-Loops-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lazy-Evaluation.iml" filepath="$PROJECT_DIR$/.idea/modules/Lazy-Evaluation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lazy-Evaluation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Lazy-Evaluation-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lazy-Lists.iml" filepath="$PROJECT_DIR$/.idea/modules/Lazy-Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lazy-Lists-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Lazy-Lists-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lexical-Scoping.iml" filepath="$PROJECT_DIR$/.idea/modules/Lexical-Scoping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lexical-Scoping-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Lexical-Scoping-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/List.iml" filepath="$PROJECT_DIR$/.idea/modules/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/List-build.iml" filepath="$PROJECT_DIR$/.idea/modules/List-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Method-Calls.iml" filepath="$PROJECT_DIR$/.idea/modules/Method-Calls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Method-Calls-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Method-Calls-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Methods-Parameters.iml" filepath="$PROJECT_DIR$/.idea/modules/Methods-Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Methods-Parameters-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Methods-Parameters-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Multiple-Parameters.iml" filepath="$PROJECT_DIR$/.idea/modules/Multiple-Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Multiple-Parameters-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Multiple-Parameters-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Naming-Things.iml" filepath="$PROJECT_DIR$/.idea/modules/Naming-Things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Naming-Things-2.iml" filepath="$PROJECT_DIR$/.idea/modules/Naming-Things-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Naming-Things-2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Naming-Things-2-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Naming-Things-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Naming-Things-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nested-Functions.iml" filepath="$PROJECT_DIR$/.idea/modules/Nested-Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nested-Functions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Nested-Functions-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Object-Oriented-Programming.iml" filepath="$PROJECT_DIR$/.idea/modules/Object-Oriented-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Object-Oriented-Programming-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Object-Oriented-Programming-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operators.iml" filepath="$PROJECT_DIR$/.idea/modules/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operators-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Operators-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Polymorphic-Types.iml" filepath="$PROJECT_DIR$/.idea/modules/Polymorphic-Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Polymorphic-Types-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Polymorphic-Types-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Primitive-Expressions.iml" filepath="$PROJECT_DIR$/.idea/modules/Primitive-Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Primitive-Expressions-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Primitive-Expressions-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rational-Arithmetic.iml" filepath="$PROJECT_DIR$/.idea/modules/Rational-Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rational-Arithmetic-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Rational-Arithmetic-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recursive-Function-Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Recursive-Function-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recursive-Function-Application-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Recursive-Function-Application-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-Tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-Tutorial-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-Tutorial-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stateful-Objects.iml" filepath="$PROJECT_DIR$/.idea/modules/Stateful-Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stateful-Objects-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Stateful-Objects-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String-Interpolation.iml" filepath="$PROJECT_DIR$/.idea/modules/String-Interpolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/String-Interpolation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/String-Interpolation-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task-Description.iml" filepath="$PROJECT_DIR$/.idea/modules/Task-Description.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task-Description-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Task-Description-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Traits.iml" filepath="$PROJECT_DIR$/.idea/modules/Traits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Traits-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Traits-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tuples.iml" filepath="$PROJECT_DIR$/.idea/modules/Tuples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tuples-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Tuples-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Type-Bounds.iml" filepath="$PROJECT_DIR$/.idea/modules/Type-Bounds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Type-Bounds-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Type-Bounds-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Type-Classes.iml" filepath="$PROJECT_DIR$/.idea/modules/Type-Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Type-Classes-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Type-Classes-build.iml" group="sbt-build-modules" />
+    </modules>
+  </component>
+</project>
