@@ -1,0 +1,9 @@
+add 2
+add 4
+delete
+add 6
+delete
+delete
+add 8
+delete
+delete
