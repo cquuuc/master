@@ -1868,3 +1868,40 @@ Exception in thread "pool-641-thread-1" java.lang.InterruptedException
 2024.12.04 00:11:25 WARN  Build server is not auto-connectable.
 12月 04, 2024 3:45:49 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+2024.12.04 03:47:13 INFO  Shutting down server
+2024.12.04 03:47:13 INFO  shutting down Metals
+2024.12.04 03:47:13 INFO  Exiting server
+2024.12.04 03:48:03 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.95.3.
+2024.12.04 03:48:06 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.04 03:48:06 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.12.04 03:48:07 WARN  Build server is not auto-connectable.
+2024.12.06 15:35:57 INFO  Shutting down server
+2024.12.06 15:35:57 INFO  shutting down Metals
+2024.12.06 15:35:57 INFO  Exiting server
+2024.12.06 15:41:12 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.95.3.
+2024.12.06 15:41:14 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.06 15:41:14 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.12.06 15:41:14 WARN  Build server is not auto-connectable.
+12月 06, 2024 3:52:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+12月 06, 2024 7:49:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+12月 06, 2024 8:32:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+12月 06, 2024 10:49:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+12月 06, 2024 11:17:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+12月 07, 2024 7:34:11 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2024.12.07 11:24:32 INFO  Shutting down server
+2024.12.07 11:24:32 INFO  shutting down Metals
+2024.12.07 11:24:32 INFO  Exiting server
+2024.12.07 22:27:25 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.95.3.
+2024.12.07 22:27:26 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.07 22:27:26 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.12.07 22:27:27 WARN  Build server is not auto-connectable.
+2024.12.08 01:28:49 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.95.3.
+2024.12.08 01:28:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.08 01:28:54 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.12.08 01:28:55 WARN  Build server is not auto-connectable.

@@ -1,10 +1,6 @@
 from myqueue import Queue
 import os
 import sys
-import pandas as pd
-from functools import reduce
-from itertools import groupby
-from operator import itemgetter
 
 
 def Fetch(filename):

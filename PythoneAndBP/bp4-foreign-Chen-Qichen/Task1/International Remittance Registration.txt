@@ -1,0 +1,19 @@
+title International Remittance Registration
+
+Remitter -> Remittance Bank: Submit 2-Hour Delayed Remittance Request
+Remittance Bank -> International Remittance System: Process Request
+International Remittance System -> Receiving Bank: Forward Request
+alt Withdrawal within 2 Hours
+    Remitter -> Remittance Bank: Withdraw Remittance Request
+    Remittance Bank -> International Remittance System: Process Withdrawal
+    International Remittance System -> Receiving Bank: Process Withdrawal
+    Remittance Bank -> Remitter: Remittance Withdrawal Confirmation
+else Confirmation after 2 Hours
+    Receiving Bank -> International Remittance System: Confirm Receipt
+    International Remittance System -> Remittance Bank: Confirm Remittance
+    Remittance Bank -> Remitter: Remittance Confirmation
+end
+
+International Remittance System -> Exchange Rate System: Query Exchange Rate (CNY/USD)
+Exchange Rate System -> International Remittance System: Return Exchange Rate
+International Remittance System -> Remittance Bank: Settle Exchange Rate

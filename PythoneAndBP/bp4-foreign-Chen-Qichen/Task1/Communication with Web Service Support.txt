@@ -1,0 +1,18 @@
+title Communication with Web Service Support
+
+User -> Web Service System: Submit Support Request
+Web Service System -> Knowledge Base System: Query Solution
+Knowledge Base System -> Web Service System: Return Solution
+alt Solution Found
+    Web Service System -> User: Provide Solution
+else Solution Not Found
+    Web Service System -> Support Operator: Notify New Request
+    Support Operator -> Web Service System: View Request
+    Web Service System -> Support Operator: Provide Solution
+    Support Operator -> User: Respond to Support Request
+end
+
+
+
+
+
