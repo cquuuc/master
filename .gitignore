@@ -1,2 +1,6 @@
 *.mp4
 *.msi
+English/**/Include/
+English/**/Lib/
+English/**/Scripts/
+English/**/__pycache__/

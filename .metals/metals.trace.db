@@ -1,0 +1,8 @@
+2024-12-20 08:04:07.032409+08:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TYPE_HIERARCHY" already exists; SQL statement:
+-- Type hierarchy information, e.g. symbol: "a/MyException#", extended_name: "Exception"
+create table type_hierarchy(
+  symbol varchar not null,
+  parent_name varchar not null,
+  path varchar not null,
+  jar in [42101-232]

@@ -50,3 +50,6 @@ alpha = 0.01
 # 计算上尾临界值
 t_critical = t.ppf(alpha, df)
 print(f"T({alpha}, {df} ) 的临界值为: {t_critical:.3f}")
+
+
+print(t.ppf(1 - 0.05, 7))
