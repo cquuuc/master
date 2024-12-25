@@ -161,6 +161,8 @@ y^2=f(x),deg(f)=3,defines \ an \ EC\iff f(x)\text{has no multiple rools}\\
 \end{array}\\
 f(x)=(x-1)g(x)=(x-1)(x^2+4x+5)\implies g(x)\text{not have root x=1}\\\implies \text{$g(x)$ is irreducible in $F_7(x)$}\\
 \implies\text{f(x) is irreducile}\implies\text{ f(x) has no multiple roots}
+\\
+if g(x)=(x-1)\cdot h(x) \ f(x)=(x-1)^2\cdot h(x)\implies\text{ f(x) has  multiple roots x=1}
 $$
 
 # 5

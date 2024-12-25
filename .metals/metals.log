@@ -2145,3 +2145,8 @@ java.util.concurrent.TimeoutException: Future timed out after [5 seconds]
 2024.12.22 22:10:05 WARN  Build server is not auto-connectable.
 12月 22, 2024 10:22:18 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+2024.12.25 05:34:47 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.96.2.
+2024.12.25 05:34:52 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.12.25 05:34:53 WARN  Build server is not auto-connectable.
+12月 25, 2024 11:42:03 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
