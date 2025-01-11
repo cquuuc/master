@@ -4,3 +4,7 @@ English/**/Include/
 English/**/Lib/
 English/**/Scripts/
 English/**/__pycache__/
+*.csv
+*.db
+*.log
+**/.metals

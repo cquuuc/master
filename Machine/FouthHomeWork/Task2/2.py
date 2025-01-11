@@ -19,4 +19,4 @@ from sklearn.metrics import roc_auc_score, roc_curve
 import os
 
 
-IMDB_data = pd.read_csv("titanic/train.csv")
+IMDB_data = pd.read_csv("IMDB Dataset.csv")
