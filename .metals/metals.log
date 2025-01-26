@@ -2241,3 +2241,89 @@ java.util.concurrent.TimeoutException: Future timed out after [5 seconds]
 2025.01.11 03:11:45 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.96.2.
 2025.01.11 03:11:52 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2025.01.11 03:11:52 WARN  Build server is not auto-connectable.
+1月 11, 2025 5:57:32 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2025.01.14 14:45:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\ROG\Desktop\master_1\.metals\lsp.trace.json
+2025.01.14 14:45:15 ERROR Failed to get project directories
+java.util.concurrent.TimeoutException: Future timed out after [5 seconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsProjectDirectories$.$anonfun$wrap$1(MetalsProjectDirectories.scala:39)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.MetalsProjectDirectories$.wrap(MetalsProjectDirectories.scala:37)
+	at scala.meta.internal.metals.MetalsProjectDirectories$.fromPath(MetalsProjectDirectories.scala:30)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:209)
+	at scala.meta.internal.metals.MetalsServerInputs$.productionConfiguration(MetalsServerInputs.scala:75)
+	at scala.meta.metals.MetalsLanguageServer$.$lessinit$greater$default$3(MetalsLanguageServer.scala:48)
+	at scala.meta.metals.Main$.main(Main.scala:45)
+	at scala.meta.metals.Main.main(Main.scala)
+
+2025.01.14 14:45:19 INFO  logging to files C:\Users\ROG\Desktop\master_1\.metals\metals.log
+2025.01.14 14:45:19 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.96.2.
+2025.01.14 14:45:24 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.01.14 14:45:24 WARN  Build server is not auto-connectable.
+2025.01.15 15:01:19 INFO  Shutting down server
+2025.01.15 15:01:19 INFO  shutting down Metals
+2025.01.15 15:01:19 INFO  Exiting server
+2025.01.15 16:17:40 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.96.2.
+2025.01.15 16:17:41 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.01.15 16:17:42 WARN  Build server is not auto-connectable.
+2025.01.18 18:53:31 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.96.2.
+2025.01.18 18:53:36 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.01.18 18:53:36 WARN  Build server is not auto-connectable.
+2025.01.24 09:26:10 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:10 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:14 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:14 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:18 INFO  time: code lens generation in 3.37s
+2025.01.24 09:26:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:50 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:50 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:51 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:51 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:26:51 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:34:17 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:34:41 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:34:58 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:34:58 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:34:59 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:12 INFO  no build target found for c:\Users\ROG\Desktop\master_1\Scala\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:12 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:12 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:12 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:17 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:17 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:17 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:17 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:18 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:18 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:19 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:20 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:20 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:20 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:20 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:21 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:22 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:25 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:25 WARN  no build target for: C:\Users\ROG\Desktop\master_1\Scala\isP.scala
+2025.01.24 09:35:25 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:25 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:25 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:31 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 09:35:42 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 14:44:25 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T2.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 14:44:25 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\isP.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.24 14:44:26 INFO  no build target found for C:\Users\ROG\Desktop\master_1\Scala\Chen_Qichen2\T5.scala. Using presentation compiler with project's scala-library version: 3.3.4
+1月 26, 2025 3:39:40 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+1月 26, 2025 10:04:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace

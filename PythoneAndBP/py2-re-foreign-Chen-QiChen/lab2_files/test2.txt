@@ -1,0 +1,10 @@
+add 10
+add 20
+delete
+add 30
+delete
+delete
+add 40
+add 50
+add 60
+delete

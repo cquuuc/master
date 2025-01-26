@@ -1,0 +1,6 @@
+delete  # 尝试从空队列删除
+add 100
+add 200
+delete
+delete
+delete  # 尝试从空队列删除

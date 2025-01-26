@@ -53,6 +53,19 @@ $$
 k=min(n_x-1,n_y-1)|k=\frac{(\frac{S_x^2}{n_x}+\frac{S_y^2}{n_y})^2}{\frac{(\frac{S_x^2}{n_x})^2}{n_x-1}+\frac{(\frac{S_y^2}{n_y})^2}{n_y-1}}
 $$
 
+
+
+### 方差检验
+
+
+$$
+\text{双边假设}\\
+F=\frac{S_x^2}{S_y^2}\implies W=\{F\le F_{\frac{1-\alpha}{2},n_x-1,n_y-1}或者F> F_{\frac{\alpha}{2},n_x-1,n_y-1} \}\\
+\text{单边假设}\\
+F=\frac{S_x^2}{S_y^2}\implies W=\{F< F_{1-\alpha,n_x-1,n_y-1},F>F_{\alpha,n_x-1,n_y-1} \}
+$$
+
+
 # 拟合度优先检验
 
 $$
