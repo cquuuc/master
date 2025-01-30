@@ -171,6 +171,13 @@ RSA:已知C\equiv19^5\ mod \ 21 ，求19\equiv C^d \ mod \ 21
 			k=2 \\
         \end{cases}\\
         且C\equiv19^5\ mod \ 21=-2\cdot-2\cdot-2\cdot-2\cdot19=16\cdot19=(-5)\cdot(-2)=10\\
-        所以解密为19\equiv 10^5 \ mod \ 21
+        所以解密为19\equiv 10^5 \ mod \ 21 
 $$
+
+
+$$
+\\a=(3x_1^2+2a_2x_1+a_4-a_1y_1)/(2y_1+a_1x_1+a_2\\
+\underbrace{1+1+\cdots+1}_{p个}
+$$
+
 
