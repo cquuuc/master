@@ -2327,3 +2327,78 @@ java.util.concurrent.TimeoutException: Future timed out after [5 seconds]
 信息: Unsupported notification method: $/setTrace
 1月 26, 2025 10:04:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+2025.02.04 19:32:28 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.96.2.
+2025.02.04 19:32:33 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.02.04 19:32:33 WARN  Build server is not auto-connectable.
+2月 04, 2025 7:32:39 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.02.04 19:41:10 INFO  Shutting down server
+2025.02.04 19:41:10 INFO  shutting down Metals
+2025.02.04 19:41:10 INFO  Exiting server
+2025.02.04 19:53:19 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.96.4.
+2025.02.04 19:53:21 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.02.04 19:53:22 WARN  Build server is not auto-connectable.
+2月 04, 2025 7:53:39 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:54:03 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:54:10 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:54:31 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:55:03 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:55:08 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:55:26 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:56:30 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:57:35 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:58:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:58:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:58:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 7:59:11 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:00:09 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:01:36 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:01:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:01:43 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:03:36 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:03:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2月 04, 2025 8:03:49 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2月 04, 2025 8:03:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2月 04, 2025 8:04:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2月 04, 2025 8:05:12 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:05:57 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:05:58 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 8:06:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 04, 2025 10:01:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.02.04 22:01:51 INFO  Shutting down server
+2025.02.04 22:01:51 INFO  shutting down Metals
+2025.02.04 22:01:51 INFO  Exiting server
+2025.02.17 15:25:03 INFO  Started: Metals version 1.5.1 in folders 'C:\Users\ROG\Desktop\master_1' for client Visual Studio Code 1.97.2.
+2025.02.17 15:25:04 WARN  no build tool detected in workspace 'C:\Users\ROG\Desktop\master_1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.02.17 15:25:05 WARN  Build server is not auto-connectable.
+2月 17, 2025 3:25:08 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2月 17, 2025 3:25:09 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
